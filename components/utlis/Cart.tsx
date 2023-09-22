@@ -8,7 +8,7 @@ const Cart = ({ image, title, description, price }) => {
         <Image
           src={image}
           height={100}
-          width={100}
+          width={300}
           alt={title}
           className=" h-52 w-56"
         />

@@ -9,7 +9,7 @@ const Hero = () => {
       <div className=" w-full md:w-[80%] h-72 md:h-80 bg-[#f07e15] flex relative z-10">
         <Image
           className=" absolute -top-40 -right-14 h-80 md:h-80 w-auto  md:-top-48 md:right-52"
-          src={"/starbig.png"}
+          src={"/bigstar.svg"}
           height={365}
           width={372}
           alt="Bigstar"

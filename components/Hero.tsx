@@ -16,15 +16,15 @@ const Hero = () => {
         />
         <div>
           <h1
-            className=" absolute left-3 hero-text-1 text-[70px] md:text-[120px] md:-left-52 md:-top-24
+            className=" tracking-widest	 absolute left-3 hero-text-1 text-[70px] md:text-[120px] md:-left-52 md:-top-24
           "
           >
             Fresh
           </h1>
-          <h1 className=" absolute hero-text-2 top-20 right-24 text-[70px] md:text-[120px] md:left-0 md:top-8">
+          <h1 className=" tracking-widest	absolute hero-text-2 top-20 right-24 text-[70px] md:text-[120px] md:left-0 md:top-8">
             2023
           </h1>
-          <h1 className=" absolute bottom-6 left-14 hero-text-1 text-[70px] md:text-[120px] md:-left-40 md:bottom-0">
+          <h1 className=" tracking-widest	 absolute bottom-6 left-14 hero-text-1 text-[70px] md:text-[120px] md:-left-40 md:bottom-0">
             Look
           </h1>
           <hr className=" z-50 bg-green-800 border-2 bottom-4 w-56 md:w-[37rem] absolute" />

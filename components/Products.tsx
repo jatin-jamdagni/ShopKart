@@ -37,8 +37,8 @@ const Products = () => {
   };
 
   return (
-    <>
-      <div className=" flex justify-between px-2 md:px-20 py-10 ">
+    <div className=" py-10">
+      <div className=" flex justify-between px-2 md:px-20 pb-10 ">
         <div className="relative">
           <h1 className="text-[42px] font-bold font-['Syne']">New Products</h1>
           <hr className=" absolute w-96 left-7 border-1 border-black" />
@@ -154,7 +154,7 @@ const Products = () => {
           </svg>
         </button>
       </div>
-    </>
+    </div>
   );
 };
 export default Products;

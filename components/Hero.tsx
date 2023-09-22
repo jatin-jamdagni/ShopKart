@@ -12,7 +12,7 @@ const Hero = () => {
           src={"/starbig.png"}
           height={365}
           width={372}
-          alt="bigstar"
+          alt="Bigstar"
         />
         <div>
           <h1
